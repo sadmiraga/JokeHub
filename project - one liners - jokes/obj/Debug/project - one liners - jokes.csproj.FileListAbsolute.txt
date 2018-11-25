@@ -1,0 +1,19 @@
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\project - one liners - jokes.exe.config
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\project - one liners - jokes.exe
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\project - one liners - jokes.pdb
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project - one liners - jokes.csprojResolveAssemblyReference.cache
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project___one_liners___jokes.Properties.Resources.resources
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project - one liners - jokes.csproj.GenerateResource.Cache
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project - one liners - jokes.csproj.CoreCompileInputs.cache
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project - one liners - jokes.exe
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project - one liners - jokes.pdb
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\EntityFramework.dll
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\System.Data.SQLite.dll
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\EntityFramework.xml
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\System.Data.SQLite.xml
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\sadmir\Desktop\project - one liners - jokes\project - one liners - jokes\obj\Debug\project___one_liners___jokes.JokeHub.resources
